@@ -1,0 +1,11 @@
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\bin\Debug\Server-Chat.exe.config
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\bin\Debug\Server-Chat.exe
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\bin\Debug\Server-Chat.pdb
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\obj\Debug\Server-Chat.csproj.AssemblyReference.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\obj\Debug\Server-Chat.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\obj\Debug\Server_Chat.Form1.resources
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\obj\Debug\Server_Chat.Properties.Resources.resources
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\obj\Debug\Server-Chat.csproj.GenerateResource.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\obj\Debug\Server-Chat.csproj.CoreCompileInputs.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\obj\Debug\Server-Chat.exe
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\3Parcial_Webcrawl\Client-Server-Chat\Server-Chat\obj\Debug\Server-Chat.pdb
